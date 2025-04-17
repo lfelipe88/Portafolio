@@ -1,7 +1,6 @@
 👨‍💻 ¿Quién Soy?
-Soy un Ingeniero de Software con habilidades en:
 
-¡Hola! Soy Luis Felipe Aravena Alarcón, un Desarrollador .NET apasionado por la tecnología y la innovación. Con más de 8 años de experiencia en el desarrollo de software, he tenido la oportunidad de liderar y colaborar en proyectos desafiantes en diversas industrias, incluyendo el sector financiero y la minería. Mi enfoque se centra en crear soluciones efectivas y eficientes que no solo satisfacen las necesidades del cliente, sino que también impulsan la transformación digital.Mi experiencia en Nueva Zelanda me permitió mejorar mis habilidades blandas, de comunicación y colaboración en entornos multiculturales.
+¡Hola! Soy Luis Felipe Aravena Alarcón, un Ingeniero de Software apasionado por la tecnología y la innovación. Con más de 8 años de experiencia en el desarrollo de software, he tenido la oportunidad de liderar y colaborar en proyectos desafiantes en diversas industrias, incluyendo el sector financiero y la minería. Mi enfoque se centra en crear soluciones efectivas y eficientes que no solo satisfacen las necesidades del cliente, sino que también impulsan la transformación digital.Mi experiencia en Nueva Zelanda me permitió mejorar mis habilidades blandas, de comunicación y colaboración en entornos multiculturales.
 
 💻 Mis Habilidades
 
